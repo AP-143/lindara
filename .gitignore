@@ -1,0 +1,5 @@
+node_modules/
+lindara.db
+.env
+*.txt
+bun.lockb
