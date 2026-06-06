@@ -1,5 +1,7 @@
 node_modules/
 lindara.db
+lindara.db-shm
+lindara.db-wal
 .env
 *.txt
 bun.lockb
