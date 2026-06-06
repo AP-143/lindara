@@ -1,5 +1,31 @@
 # Lindara — Lindungi yang Berharga.
 
+## Screenshots
+
+### Landing Page
+![Home](screenshots/01-home.png)
+
+### Katalog Produk
+![Katalog](screenshots/02-katalog.png)
+
+### Detail Produk & Kalkulator Premi
+![Product Detail](screenshots/05-product-detail.png)
+
+### Login & Register
+![Login](screenshots/03-login.png)
+![Register](screenshots/04-register.png)
+
+### Dashboard Nasabah
+![Dashboard](screenshots/06-dashboard.png)
+
+### Pengajuan Klaim
+![Klaim](screenshots/07-klaim.png)
+
+### Admin Panel
+![Admin](screenshots/08-admin.png)
+
+---
+
 Platform asuransi digital full-stack berbasis Node.js + Express + SQLite.
 
 ## Cara Menjalankan
