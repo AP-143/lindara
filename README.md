@@ -15,12 +15,6 @@
 ![Login](screenshots/03-login.png)
 ![Register](screenshots/04-register.png)
 
-### Dashboard Nasabah
-![Dashboard](screenshots/06-dashboard.png)
-
-### Pengajuan Klaim
-![Klaim](screenshots/07-klaim.png)
-
 ### Admin Panel
 ![Admin](screenshots/08-admin.png)
 
